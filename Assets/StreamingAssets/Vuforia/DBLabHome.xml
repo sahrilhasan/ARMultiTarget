@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="piston" size="100.000000 100.000000" />
+    <ImageTarget name="kanguru" size="100.000000 100.000000" />
+    <ImageTarget name="cell_animal" size="100.000000 108.333336" />
+    <ImageTarget name="sel_tumbuhan" size="300.000000 219.500000" />
+  </Tracking>
+</QCARConfig>
